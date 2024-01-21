@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "modals",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fieldday-ai/Modals",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b39c66a473dd6ba5309b4263027ccce514b08186"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections",
+      "state" : {
+        "revision" : "d029d9d39c87bed85b1c50adee7c41795261a192",
+        "version" : "1.0.6"
+      }
+    },
+    {
+      "identity" : "swift-identified-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-identified-collections",
+      "state" : {
+        "revision" : "d1e45f3e1eee2c9193f5369fa9d70a6ddad635e8",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
