@@ -1,7 +1,3 @@
-Certainly! Here's a description you can use for your GitHub repository:
-
----
-
 # Country Flag Game
 
 ## Overview
